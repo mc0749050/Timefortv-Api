@@ -1,0 +1,306 @@
+{
+  "cartoonObj": [
+    {
+      "cartoonname": "Doremon",
+      "coverimg": "https://p325k7wa.twic.pics/high/doraemon/doraemon/00-page-setup/doraemon_game-thumbnail.jpg?twic=v1/resize=660/step=10/quality=80",
+      "imagescomponent": [
+        {
+          "img": "https://wallpapers.com/images/high/doraemon-and-friends-anime-pf0vxwdtb681ujcd.webp"
+        },
+        {
+          "img": "https://wallpapers.com/images/high/cute-nobita-worried-about-photo-3m45kgxixyj6b632.webp"
+        },
+        {
+          "img": "https://wallpapers.com/images/high/a-cute-nobita-on-the-roof-q6ukaxfrst1qledw.webp"
+        },
+        {
+          "img": "https://wallpapers.com/images/high/cute-nobita-crying-3d-8q1z0dw2jgdlvbiq.webp"
+        },
+        {
+          "img": "https://wallpapers.com/images/high/a-cute-nobita-reading-xqqne5ea55qhgxie.webp"
+        },
+        {
+          "img": "https://wallpapers.com/images/high/cute-nobita-with-funny-face-nr07qy2umv3p7ynh.webp"
+        },
+        {
+          "img": "https://wallpapers.com/images/high/shizuka-doraemon-and-nobita-under-umbrella-ak41ovw4i56rdyfa.webp"
+        },
+        {
+          "img": "https://wallpapers.com/images/high/shizuka-doraemon-with-penguin-family-4l0r2lvinelk10gx.webp"
+        },
+        {
+          "img": "https://wallpapers.com/images/high/engawa-quality-time-nobita-shizuka-18d3c759jnnk1bdd.webp"
+        },
+        {
+          "img": "https://wallpapers.com/images/high/nobita-shizuka-hd-green-forest-wrniuxwncrw1673h.webp"
+        },
+        
+      ],
+      "episodescomponents": [
+        {
+          "thumbnail": "https://wallpapers.com/images/featured-full/doraemon-6ag1ry72uy2s9jmg.jpg",
+          "episodeurl": "https://youtu.be/OyrqEDjQ2wE?si=DsKXwbCK6NcnE6Vv"
+        }, 
+        {
+          "thumbnail": "https://wallpapers.com/images/high/sad-nobita-on-bed-stand-by-me-doraemon-r2bqutqn06qm74tq.webp",
+          "episodeurl": "https://youtu.be/vZfzFygYtu4?feature=shared"
+        },
+        {
+          "thumbnail": "https://wallpapers.com/images/high/doraemon-in-rural-area-4xivmjunr1fltopp.webp",
+          "episodeurl": "https://youtu.be/CIQovd3vA2I?si=9WhabUc-ZelYPSqd"
+        },
+        {
+          "thumbnail": "https://wallpapers.com/images/high/nobita-shizuka-hd-green-forest-wrniuxwncrw1673h.webp",
+          "episodeurl": "https://youtu.be/ay5MGPvhmXU?feature=shared"
+        }, 
+        {
+          "thumbnail": "https://wallpapers.com/images/high/cool-japanese-doraemon-2ihrxx1ucupen16e.webp",
+          "episodeurl": "https://youtu.be/pHHl_YuG4dw?si=d7gfT1l2viTHj0mX"
+        },
+        {
+          "thumbnail": "https://wallpapers.com/images/high/cute-nobita-watching-tv-with-doraemon-cby61fad07nqlt0t.webp",
+          "episodeurl": "https://youtu.be/upp03GKdUiA?si=2jzi1bhnT1woCVNZ"
+        }, 
+        {
+          "thumbnail": "https://wallpapers.com/images/high/cute-nobita-woken-up-by-doraemon-y2uog7ykcvis1poy.webp",
+          "episodeurl": "https://youtu.be/mx3oUeA_3t0?feature=shared"
+        }, 
+        {
+          "thumbnail": "https://wallpapers.com/images/high/cute-nobita-and-doraemon-working-together-vd9svcjhht7j1xg6.webp",
+          "episodeurl": "https://youtu.be/Ivg8fPlvLnw?feature=shared"
+        }, 
+        {
+          "thumbnail": "https://wallpapers.com/images/high/cute-nobita-and-friends-flying-yq6hnp76tsh2c4yv.webp",
+          "episodeurl": "https://youtu.be/iRnlfXu2JZw?feature=shared"
+        }, 
+        {
+          "thumbnail": "https://wallpapers.com/images/high/cute-nobita-crying-3d-8q1z0dw2jgdlvbiq.webp",
+          "episodeurl": "https://youtu.be/EvhyYi38dt0?feature=shared"
+        },
+      ],
+      
+      "characterscomponents": [
+        {
+          "name": "Doraemon",
+          "imgurl": "https://freepngimg.com/thumb/doraemon/35004-7-doraemon-transparent-image.png",
+          "about": "Hello! I'm Doraemon, your friendly robotic cat from the future. Main aapka dost hoon jo har samasya ka hal nikalne ke liye yahan hai. Aapko koi bhi madad chahiye ho, bas batayein. Main aapke har prashna ka jawab dene aur aapko har challenge se nikalne ke liye taiyar hoon.",
+        },
+        {
+          "name": "Nobita",
+          "imgurl": "https://mcdn.wallpapersafari.com/medium/66/32/pmUqXb.jpg",
+          "about": "Hello! I'm Nobita. I'm a young boy who loves to explore new things and get into all sorts of adventures with my friends. I often find myself in funny and tricky situations, but I always try to learn from them and find solutions. Life is full of surprises, and I enjoy every moment of it. Sometimes I feel a bit worried or confused, but I know that with a little help from my friends and a positive attitude, I can handle anything.",
+        },
+        {
+          "name": "Sizuka",
+          "imgurl": "https://gallerypng.com/wp-content/uploads/2024/07/sizuka-png-image-768x957.png",
+          "about": "Sizuka is a friendly and kind character who is often portrayed as gentle and intelligent. She is known for her caring nature and supportive attitude towards her friends. Sizuka is typically depicted as someone who values friendship, is empathetic, and has a strong sense of responsibility. In various stories, she is seen as a dependable and trustworthy individual who contributes positively to the group dynamics.",
+        },
+        {
+          "name": "Sunio",
+          "imgurl": "https://cdn.dribbble.com/users/5216574/screenshots/14624611/media/0549e1cd02ba286d49ab8e5be72e1b85.jpg",
+          "about": "Sunio is usually characterized as a fun-loving and energetic individual. He is often depicted as enthusiastic and adventurous, with a zest for life that makes him stand out. Sunio tends to be outgoing and sociable, enjoying the company of friends and engaging in various activities with a positive attitude. His energetic nature and love for excitement often lead him to take on challenges and explore new experiences.",
+        },
+        {
+          "name": "Jiyan",
+          "imgurl": "https://images.meesho.com/images/products/243910090/ofylp_512.webp",
+          "about": "Jiyan is often portrayed as a thoughtful and introspective character. He tends to be reflective, wise, and deeply understanding, often contemplating the bigger picture and seeking deeper meaning in life. Jiyan is usually seen as someone who values introspection and personal growth. He might be characterized by his calm demeanor and ability to provide insightful perspectives, making him a trusted confidant and advisor in various situations.",
+        },
+      ]
+      
+    },
+
+
+    {
+  "cartoonname": "Chota Bheem",
+  "coverimg": "https://www.chhotabheem.com/image/catalog/wallpaper/series_03.jpg",
+  "imagescomponent": [
+    {
+      "img": "https://getwallpapers.com/wallpaper/full/c/7/a/819566-cool-chhota-bheem-wallpapers-1920x1200-for-windows-10.jpg"
+    },
+    {
+      "img": "https://getwallpapers.com/wallpaper/full/5/f/6/819674-chhota-bheem-wallpapers-1920x1080-mobile.jpg"
+    },
+    {
+      "img": "https://getwallpapers.com/wallpaper/full/2/2/b/819525-chhota-bheem-wallpapers-1920x1080-screen.jpg"
+    },
+    {
+      "img": "https://getwallpapers.com/wallpaper/full/8/5/0/819743-chhota-bheem-wallpapers-1920x1080-phone.jpg"
+    },
+    {
+      "img": "https://getwallpapers.com/wallpaper/full/3/f/9/819623-cool-chhota-bheem-wallpapers-1920x1080-photos.jpg"
+    },
+    {
+      "img": "https://getwallpapers.com/wallpaper/full/9/d/0/819592-widescreen-chhota-bheem-wallpapers-1920x1080-photo.jpg"
+    },
+    {
+      "img": "https://getwallpapers.com/wallpaper/full/5/9/6/819702-beautiful-chhota-bheem-wallpapers-1920x1080-pictures.jpg"
+    },
+    {
+      "img": "https://getwallpapers.com/wallpaper/full/6/f/b/819571-chhota-bheem-wallpapers-1920x1080-1080p.jpg"
+    },
+    {
+      "img": "https://getwallpapers.com/wallpaper/full/2/1/a/819670-chhota-bheem-wallpapers-1920x1080-tablet.jpg"
+    },
+    {
+      "img": "https://getwallpapers.com/wallpaper/full/6/b/b/819708-chhota-bheem-wallpapers-1920x1080-for-mobile.jpg"
+    }
+  ],
+  "episodescomponents": [
+    {
+      "thumbnail": "https://getwallpapers.com/wallpaper/full/8/3/6/819757-chhota-bheem-wallpapers-1920x1080-xiaomi.jpg",
+      "episodeurl": "https://youtu.be/efjmXakXpYY?feature=shared"
+    },
+    {
+      "thumbnail": "https://getwallpapers.com/wallpaper/full/5/e/9/819693-download-free-chhota-bheem-wallpapers-1920x1200-ipad.jpg",
+      "episodeurl": "https://youtu.be/_WxsRmKCIK0?feature=shared"
+    },
+    {
+      "thumbnail": "https://getwallpapers.com/wallpaper/full/0/b/0/819600-best-chhota-bheem-wallpapers-1920x1080-for-ipad-pro.jpg",
+      "episodeurl": "https://youtu.be/AJQpoZfS5IY?feature=shared"
+    },
+    {
+      "thumbnail": "https://getwallpapers.com/wallpaper/full/4/0/c/819610-gorgerous-chhota-bheem-wallpapers-1920x1080-samsung.jpg",
+      "episodeurl": "https://youtu.be/cqya9HC8eL0?feature=shared"
+    },
+    {
+      "thumbnail": "https://getwallpapers.com/wallpaper/full/8/2/5/819747-chhota-bheem-wallpapers-1920x1080-desktop.jpg",
+      "episodeurl": "https://youtu.be/LypLGlec1Ok?feature=shared"
+    },
+    {
+      "thumbnail": "https://getwallpapers.com/wallpaper/full/5/b/c/819549-widescreen-chhota-bheem-wallpapers-1920x1080.jpg",
+      "episodeurl": "https://youtu.be/EVnY-K75tl8?feature=shared"
+    },
+    {
+      "thumbnail": "https://getwallpapers.com/wallpaper/full/5/4/3/819639-new-chhota-bheem-wallpapers-1920x1080-meizu.jpg",
+      "episodeurl": "https://youtu.be/XgLIcFHoSAk?feature=shared"
+    },
+    {
+      "thumbnail": "https://getwallpapers.com/wallpaper/full/c/1/5/819664-most-popular-chhota-bheem-wallpapers-1920x1080.jpg",
+      "episodeurl": "https://youtu.be/Hk2_jx-Ad2A?feature=shared"
+    },
+    {
+      "thumbnail": "https://getwallpapers.com/wallpaper/full/c/6/f/819780-large-chhota-bheem-wallpapers-1920x1080-photos.jpg",
+      "episodeurl": "https://youtu.be/iMCYA-AH9is?feature=shared"
+    },
+    {
+      "thumbnail": "https://getwallpapers.com/wallpaper/full/2/a/8/819563-chhota-bheem-wallpapers-1920x1200-windows-10.jpg",
+      "episodeurl": "https://youtu.be/MNGAiJtanyI?feature=shared"
+    }
+  ],
+  "characterscomponents": [
+    {
+      "name": "Chhota Bheem",
+      "imgurl": "https://www.greengoldstore.com/image/cache/catalog/product/school-supplies-and-home-decor/wall-decors/GGLPM-CB12C-500x515.jpg",
+      "about": "Bheem a 9 year old, brave, strong, intelligent, adventurous. Bheem loves food, his weakness being Tun Tun Masi's delicious Laddoos, which gives him additional strength."
+    },
+    {
+      "name": "Chutki",
+      "imgurl": "https://img.cartoongoodies.com/wp-content/uploads/2022/08/Chhota-Bheem-Chutki-with-Cat.png",
+      "about": "Chutki is a 7 year old girl, graceful and intelligent. She is Bheem's closest friend and loves to accompany Bheem on his adventures."
+    },
+    {
+      "name": "Raju",
+      "imgurl": "https://gp1.wac.edgecastcdn.net/802892/http_public_production/photos/images/11958596/original/resize:600x600/crop:x0y63w500h375/aspect:1.0/hash:1463863794/74194.jpg?1463863794",
+      "about": "Raju is a cute 4 year old, who totally looks up to Bheem and idolises him. He follows Bheem everywhere and loves wrestling with him. Bheem is very protective of Raju."
+    },
+    {
+      "name": "Jaggu",
+      "imgurl": "https://img.cartoongoodies.com/wp-content/uploads/2022/08/Chhota-Bheem-Jaggu.png",
+      "about": "Jaggu is Bheem’s friend. Jaggu is a talking monkey and is of great help to Bheem whenever they are in the jungle. He supports Bheem and always accompanies him in his adventures."
+    }
+  ]
+    },
+    {
+  "cartoonname": "Motu Patlu",
+  "coverimg": "https://wallpapers.com/images/featured-full/motu-patlu-tspcxwwl5mfnmfvq.jpg",
+  "imagescomponent": [
+    {
+      "img": "https://wallpapers.com/images/high/motu-patlu-crying-9lhaxoikfldi48og.webp"
+    },
+    {
+      "img": "https://wallpapers.com/images/high/motu-patlu-hands-up-4gu2qezv63f334s7.webp"
+    },
+    {
+      "img": "https://wallpapers.com/images/high/motu-patlu-shark-vd95tei2i93hahfl.webp"
+    },
+    {
+      "img": "https://wallpapers.com/images/high/motu-patlu-red-car-ezgijtj5fkhuex3k.webp"
+    },
+    {
+      "img": "https://wallpapers.com/images/high/motu-patlu-bearded-man-qiexa7otv78gqduy.webp"
+    },
+    {
+      "img": "https://wallpapers.com/images/high/motu-patlu-coffee-31jdoz5t2jc380kw.webp"
+    },
+    {
+      "img": "https://wallpapers.com/images/high/motu-patlu-machine-2xadrh5ggli441bn.webp"
+    },
+    {
+      "img": "https://wallpapers.com/images/high/motu-patlu-chinese-fupkvmk6mnpj26i4.webp"
+    },
+    {
+      "img": "https://wallpapers.com/images/high/motu-patlu-flower-h7fp93wbzh2zotfc.webp"
+    },
+    {
+      "img": "https://wallpapers.com/images/high/motu-patlu-genie-cxy76bs84xf8ra7i.webp"
+    }
+  ],
+  "episodescomponents": [
+    {
+      "thumbnail": "https://wallpapers.com/images/high/motu-patlu-snowing-nr51d20utbos2ktd.webp",
+      "episodeurl": "https://youtu.be/W6RR93AeCpQ?si=RNM7n2ITs6PWY8b8"
+    },
+    {
+      "thumbnail": "https://wallpapers.com/images/high/motu-patlu-thinking-1fik14yp3dx8hbg9.webp",
+      "episodeurl": "https://youtu.be/yXf-LgA0AOU?feature=shared"
+    },
+    {
+      "thumbnail": "https://wallpapers.com/images/high/motu-patlu-superhero-i0c05y3kmwctxmh7.webp",
+      "episodeurl": "https://youtu.be/rMlPBzhseEU?si=JvvMlVJLmCxTsYn6"
+    },
+    {
+      "thumbnail": "https://wallpapers.com/images/high/motu-patlu-firemen-yoeuah891g65nwb7.webp",
+      "episodeurl": "https://youtu.be/41OTXkcisrQ?feature=shared"
+    },
+    {
+      "thumbnail": "https://wallpapers.com/images/high/motu-patlu-fire-fighter-hnahn6mlteb5a3yv.webp",
+      "episodeurl": "https://youtu.be/ycQ_7zZIYnA?si=hZVLGjA0bHBbUZHP"
+    },
+    {
+      "thumbnail": "https://wallpapers.com/images/high/motu-patlu-pranks-6rgcv02vktw4uo6b.webp",
+      "episodeurl": "https://youtu.be/eBhzPr6lO8s?feature=shared"
+    },
+    {
+      "thumbnail": "https://wallpapers.com/images/high/motu-patlu-game-hzkp7d31qu9hr1g3.webp",
+      "episodeurl": "https://youtu.be/cVHhaaFPuu8?feature=shared"
+    },
+    {
+      "thumbnail": "https://wallpapers.com/images/high/motu-patlu-chingam-0zt8hce5d7czqt6o.webp",
+      "episodeurl": "https://youtu.be/I2l4I9GU2jM?feature=shared"
+    },
+    {
+      "thumbnail": "https://wallpapers.com/images/high/motu-patlu-machine-2xadrh5ggli441bn.webp",
+      "episodeurl": "https://youtu.be/ucmU5UOy2Rk?feature=shared"
+    },
+    {
+      "thumbnail": "https://wallpapers.com/images/high/motu-patlu-pizza-boys-tlt70opg1z3y6c2d.webp",
+      "episodeurl": "https://youtu.be/xVsDgiQY0Go?feature=shared"
+    }
+  ],
+  "characterscomponents": [
+    {
+      "name": "Motu",
+      "imgurl": "https://static.wikia.nocookie.net/motu-patlu/images/3/3e/Profile_motu2.png/revision/latest?cb=20200527214255",
+      "about": "Motu is one of the main characters in the popular Indian animated TV show. He is a chubby and good-hearted man with a love for food, particularly samosas, which often land him in trouble. Motu is known for his impulsive behavior and tends to act without thinking, leading to humorous situations. Despite his flaws, he has a strong sense of loyalty and friendship, especially towards his best friend, Patlu. While Motu lacks intelligence, his strength and determination often help him and his friends get out of tricky situations. His character provides much of the comic relief in the show."
+    },
+    {
+      "name": "Patlu",
+      "imgurl": "https://static.wikia.nocookie.net/motu-patlu/images/a/a2/Duplicatepatlu.png/revision/latest?cb=20180109141805",
+      "about": "Patlu is the other main character in the show and is the best friend of Motu. Unlike Motu, Patlu is slim, clever, and more cautious. He is often the brains of the duo, always coming up with plans to solve problems or get them out of trouble. Patlu is intelligent, resourceful, and usually tries to keep Motu's impulsive behavior in check. While he can be timid and easily frightened, his quick thinking and sharp wit often save the day. Patlu cares deeply for his friend Motu, and despite the challenges they face, they share a strong bond of friendship."
+    }
+  ]
+      
+    }
+    
+  ]
+}
